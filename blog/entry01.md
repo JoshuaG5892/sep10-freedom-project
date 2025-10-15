@@ -7,7 +7,11 @@ I chose business because I took a business class in 8th grade which interested m
 Now that I finished stepped one ( finding your topic that you are interested at). Then, we do more deep research in the field that we are more passionate about and do more research about the technology that is used in that career. I plan on talking to the teacher and talking to my peers on how to research about business and websites i can use to create my own website and to make it to the top 3.
 
 # Skills
+### How to Google
 A skill that i learned is how to google. I feel in todays world knowing how to google is a very important skill to learn because you will need techology in todays world. While i was seraching for a topic that interested me, i was learning how to google. I was looking through different types of websites to see if it interests me to create a website about it. I found out through googling that technogloy plays a big role in businessess because if you have advanced technology in a business it will become a powerful business and it will be a good job beccause you will earn lots of money.
+
+### How to read
+A skill that i leanred is how to read. I was reading the article headings to see what part of the article and what type of information i was getting from the article. These typoe of infoirmation are writtten differently from novles and to you will have to pay close attention to what you are reading about. 
 
 # Summary
 Im excited to do deeper reseach of business and create a website about business.
