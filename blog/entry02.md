@@ -2,7 +2,7 @@
 ##### 11/7/25
 
 ### Content
-This week, I researched some of the gadegts that could be used for business, I was looked throguh websites like: (https://www.hoppier.com/blog/office-gadgets-for-productivity) and (https://www.monitask.com/en/blog/ten-must-have-gadgets-for-business-leaders-and-project-managers). These are some of the unique gadegts that look and sound interesting:
+This week, I researched some of the gadegts that could be used for business, I was looked throguh websites like: [Gadget Website](https://www.hoppier.com/blog/office-gadgets-for-productivity) and [Gadget website 2](https://www.monitask.com/en/blog/ten-must-have-gadgets-for-business-leaders-and-project-managers). These are some of the unique gadegts that look and sound interesting:
 
 * pen sccaners
 * Smart pens
