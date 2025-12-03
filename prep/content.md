@@ -63,4 +63,7 @@ Ai business Analysis
 * customers can do a survey and show if they are happy with the business and show the data on what to work on
 * employees can do a survey and ai can auto show the analysis so we can see how employees feel about the business and about their work
 * auto calculates data
-
+* Gives you suggestions on how to improve in your business
+* it could be a app
+* shows up in your phone
+* gives you notications when theres a update
