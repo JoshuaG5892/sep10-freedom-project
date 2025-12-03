@@ -2,68 +2,36 @@
 Topic: Business
 
 ## Overview/Introduction/Context
-* Business is and will always be apart of everyone lives.
-    * Business owners or who work in businesses use technology but how and what tools do they use to make thier business better or function?
-    * This site we will look at businesses innvoations and innvoations that can possibly being used in the future.
-      Categories
-       Pen scanners
+Business is and will always be apart of everyone lives. Business owners or who people who work in businesses use technology but how and what tools do they use to make thier business better or function? This site we will look at businesses innvoations and innvoations that can possibly being used in the future. This can go from things like pens to vr headsets.
+      
+  ## Part A: existing technology
+  
+**Pen scanners**: Small handheld devices you swipe over printed text to scan and convert it into digital text.
 
-Small handheld devices you swipe over printed text to scan and convert it into digital text.
+**Smart pens**: Pens that digitally record your handwriting or transfer what you write to a phone or tablet.
 
- Smart pens
+**Rugged tablets**: Tablets built to be extra tough, resistant to water, dust, drops, and outdoor conditions.
 
-Pens that digitally record your handwriting or transfer what you write to a phone or tablet.
+**Handheld scanners**: Portable devices you hold in your hand to scan documents, barcodes, or images.
 
- Rugged tablets
+**Electronic notebooks**: Digital devices used like notebooks where you write on a screen, and it saves your notes electronically.
 
-Tablets built to be extra tough, resistant to water, dust, drops, and outdoor conditions.
+**Air purifier**: A device that cleans the air by removing dust, allergens, and odors.(If “Air Claire” is a brand, it would be a type of air purifier.)
 
-Handheld scanners
+**Self-charging phone case**: A phone case with a built-in battery or solar panel that can charge your phone without a wall charger.
 
-Portable devices you hold in your hand to scan documents, barcodes, or images.
+**Bluetooth keyboard for mobile**: A wireless keyboard that connects to your phone or tablet for easier typing.
 
- Electronic notebooks
+**VR headsets**: Wearable devices that cover your eyes and create a virtual reality 3D world for gaming, videos, or simulations.
 
-Digital devices used like notebooks where you write on a screen, and it saves your notes electronically.
 
- Air purifier (Air Claire?)
-
-A device that cleans the air by removing dust, allergens, and odors.
-(If “Air Claire” is a brand, it would be a type of air purifier.)
-
- Self-charging phone case
-
-A phone case with a built-in battery or solar panel that can charge your phone without a wall charger.
-
- Bluetooth keyboard for mobile
-
-A wireless keyboard that connects to your phone or tablet for easier typing.
-
- VR headsets
-
-Wearable devices that cover your eyes and create a virtual reality 3D world for gaming, videos, or simulations.
-
-## Part A: existing technology
-* Pen scanners
-* smart pens
-* rugged tablets
-* handheld scanners
-* electroinc notbeooks
-* Air claire
-* Self-charging phone case
-* bluetooth keyboard for moblie
-* Vr headsets
-  * Detail
   * [pen scanner]([https://scanmarker.com/cdn/shop/files/Scanmarker-air-pen-scanner-black-01.jpg?v=1720427943&width=1500])
   * [rugged tablets](https://cdn.xenarc.com/images/D/RT71frontiso800px-min.jpg)
   * [self-charging phone case](https://m.media-amazon.com/images/I/71ZmJG8JkLL.jpg)
   * [Electronic notebooks](https://hips.hearstapps.com/hmg-prod/images/remarkable-648c947a49429.jpg)
  
-    * Business is and will always be apart of everyone lives.
-    * Business owners or who work in businesses use technology but how and what tools do they use to make thier business better or function?
-    * This site we will look at businesses innvoations and innvoations that can possibly being used in the future.
-      Categories
-      *1. Scanning Devices
+
+1. Scanning Devices
 
 Pen scanners
 Handheld scanners
@@ -89,5 +57,10 @@ Air clarie
     
 
 ## Part B: possible future technology
-* Idea
-  * Detail
+Ai business Analysis
+* shows by how much percentage the business is doing better or worse
+* shows the sell rate of your business
+* customers can do a survey and show if they are happy with the business and show the data on what to work on
+* employees can do a survey and ai can auto show the analysis so we can see how employees feel about the business and about their work
+* auto calculates data
+
