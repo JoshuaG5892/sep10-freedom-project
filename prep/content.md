@@ -2,8 +2,46 @@
 Topic: Business
 
 ## Overview/Introduction/Context
-* Text
-* Text
+* Business is and will always be apart of everyone lives.
+    * Business owners or who work in businesses use technology but how and what tools do they use to make thier business better or function?
+    * This site we will look at businesses innvoations and innvoations that can possibly being used in the future.
+      Categories
+       Pen scanners
+
+Small handheld devices you swipe over printed text to scan and convert it into digital text.
+
+ Smart pens
+
+Pens that digitally record your handwriting or transfer what you write to a phone or tablet.
+
+ Rugged tablets
+
+Tablets built to be extra tough, resistant to water, dust, drops, and outdoor conditions.
+
+Handheld scanners
+
+Portable devices you hold in your hand to scan documents, barcodes, or images.
+
+ Electronic notebooks
+
+Digital devices used like notebooks where you write on a screen, and it saves your notes electronically.
+
+ Air purifier (Air Claire?)
+
+A device that cleans the air by removing dust, allergens, and odors.
+(If “Air Claire” is a brand, it would be a type of air purifier.)
+
+ Self-charging phone case
+
+A phone case with a built-in battery or solar panel that can charge your phone without a wall charger.
+
+ Bluetooth keyboard for mobile
+
+A wireless keyboard that connects to your phone or tablet for easier typing.
+
+ VR headsets
+
+Wearable devices that cover your eyes and create a virtual reality 3D world for gaming, videos, or simulations.
 
 ## Part A: existing technology
 * Pen scanners
