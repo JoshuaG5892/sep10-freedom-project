@@ -8,10 +8,12 @@
 * a-sky=color"" makes the background change into whatever color you want it
 * a-sky material="src:link" changes the background into the picture chosen
 * The videos that i watched were renne castro vidoes about color & material
-### X/X/XX:
-* Text
-
-
+### 3/30/26:
+* The units are in meters
+* The #s located are x,y,z
+* x: horizontal ( positive right, negative left)
+* y: Vertical ( positive up, negative down)
+* z: Depth (positive towards the user, negative away)
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
