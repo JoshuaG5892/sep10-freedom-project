@@ -14,6 +14,9 @@
 * x: horizontal ( positive right, negative left)
 * y: Vertical ( positive up, negative down)
 * z: Depth (positive towards the user, negative away)
+### 4/13/26:
+* use <a-scene> in the <body> to define the 3D space
+* Components should come in ordder before <a-scene>
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
