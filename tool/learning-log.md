@@ -17,6 +17,9 @@
 ### 4/13/26:
 * use <a-scene> in the <body> to define the 3D space
 * Components should come in ordder before <a-scene>
+### 4/20/26
+* Using the comments makes you organized in which part of your model you are bulding
+* Adding a different background to your model makes your model stand out
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
