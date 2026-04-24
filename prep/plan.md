@@ -14,13 +14,17 @@
 
 #### MVP
 
-* Task/Timeline
+* F 4/24: Add list group compnent
+* M 4/27: Part A
+* T 4/28: Part A and starting to do part B
+* W 4/29: Finish Part B
+* T 4/30: 
 
 ---
 
 #### Beyond MVP
 
-* Task
+* Add advanced css
 
 
 
@@ -29,7 +33,7 @@
 
 <!-- DO NOT USE THIS YET
 
-#### Peer Feedback 
+#### Peer Feedback
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
