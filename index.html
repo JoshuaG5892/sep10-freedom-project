@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <h1 class="text-center mt-5">Innovative Tools for the Future of Business</h1>
+    <h1 class="text-center mt-5">Freedom project</h1>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -161,12 +161,39 @@
     </div>
 </div>
 
-<!-- Add the Screenshot -->
 <div class="container text-center mt-5">
     <div class="row justify-content-center">
         <div class="col-md-8 item">
-            <!-- Center the image using Bootstrap classes -->
-            <img src="Robot.png" alt="A robot designed to assist businesses with tasks." class="img-fluid mx-auto d-block">
+            <html>
+  <head>
+    <script src="https://aframe.io/releases/1.7.1/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene embedded>
+  <a-camera position="0 1.6 5"></a-camera>
+
+
+      <a-entity id="robot" position="0 0 -3">
+    <a-sky color="#000"></a-sky>
+        <!-- Body -->
+        <a-box position="0 1 0" depth="0.5" height="1.5" width="1" color="blue"></a-box>
+
+        <!-- Head -->
+        <a-sphere position="0 2 0" radius="0.4" color="lightblue"></a-sphere>
+        <!-- Left Arm -->
+        <a-cylinder position="-0.8 1 0" radius="0.1" height="1" color="gray"></a-cylinder>
+
+        <!-- Right Arm -->
+        <a-cylinder position="0.8 1 0" radius="0.1" height="1" color="gray"></a-cylinder>
+
+        <!-- Legs -->
+        <a-cylinder position="-0.3 0 0" radius="0.15" height="1" color="black"></a-cylinder>
+        <a-cylinder position="0.3 0 0" radius="0.15" height="1" color="black"></a-cylinder>
+
+      </a-entity>
+        </a-scene>
+  </body>
+</html>
             <p class="mt-3">This image is a robot I created using A-Frame. For the head, I used a sphere. The arms and legs were made from cylinders. The body is a box to give it a clean, structured appearance. This is a robot that businesses can use as a worker to help their operations.</p>
         </div>
     </div>
