@@ -25,8 +25,10 @@
 ---
 
 #### Beyond MVP
-
-* Add advanced css
+* Add diferent fonts
+* Add a navbar
+* Add borders around the images
+* Add a briefcase to my robot
 
 
 
