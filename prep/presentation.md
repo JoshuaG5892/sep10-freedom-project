@@ -1,16 +1,16 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Over 543,000 new businesses start monthly, with 54% being home based
 
 ## Product
-* 
+* I will talk for each part for my webite like about part A and Part B. Then my Aframe tool.
 
 ## Process
-* 
+* I will show my wireframe. I will also show the code snippets.
 
 ## Conclusion
-* 
+* Takeaways (How to google) Talking about my future of how i want my job to be business related
 
 <!-- EXAMPLE
 
