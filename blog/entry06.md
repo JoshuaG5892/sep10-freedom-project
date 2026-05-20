@@ -1,7 +1,7 @@
 # Entry 6
-##### X/X/XX
+##### 5/11/26
 
-Text
+In SEP, I am on the journey to do my freedom project website. 
 
 [Previous](entry05.md) | [Next](entry07.md)
 
